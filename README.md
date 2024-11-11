@@ -4,8 +4,8 @@ This project utilizes various Python libraries to perform tasks such as text-to-
 Installation
 To install the necessary packages, run the following commands:
 
-pip install pyttsx3\n
-pip install os\n
-pip install SpeechRecognition\n
-pip install smtplib\n
-pip install PyAudio\n
+pip install pyttsx3"\n"
+pip install os"\n"
+pip install SpeechRecognition"\n"
+pip install smtplib"\n"
+pip install PyAudio"\n"
